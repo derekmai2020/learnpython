@@ -69,4 +69,51 @@ Dùng **Thonny** hoặc **Replit**. Nhớ `import random` ở đầu file.
 
 ---
 
-Bạn muốn mình viết thêm **phiên bản đề bài có comment hướng dẫn** (để bé nhìn vào khung rồi tự điền code), hay để bé tự làm từ đầu theo đề trên là được?
+=== GAME ĐOÁN SỐ ===
+
+Chọn mức độ khó:
+1. Dễ (1 - 50)
+2. Trung bình (1 - 100)
+3. Khó (1 - 200)
+Nhập lựa chọn (1/2/3): 2
+
+Bạn đã chọn mức Trung bình. Hãy đoán số từ 1 đến 100!
+
+Lần đoán thứ 1: 50
+Thấp hơn!
+
+Lần đoán thứ 2: 75
+Cao hơn!
+
+Lần đoán thứ 3: 62
+Thấp hơn!
+
+Lần đoán thứ 4: 68
+Đúng rồi! Bạn đoán trong 4 lần.
+Bạn được 80 điểm.
+
+Bạn có muốn chơi tiếp không? (có/không): có
+
+Chọn mức độ khó:
+1. Dễ (1 - 50)
+2. Trung bình (1 - 100)
+3. Khó (1 - 200)
+Nhập lựa chọn (1/2/3): 1
+
+Bạn đã chọn mức Dễ. Hãy đoán số từ 1 đến 50!
+
+Lần đoán thứ 1: 25
+Cao hơn!
+
+Lần đoán thứ 2: 10
+Đúng rồi! Bạn đoán trong 2 lần.
+Bạn được 40 điểm.
+Giỏi quá!
+
+Bạn có muốn chơi tiếp không? (có/không): không
+
+=== KẾT QUẢ PHIÊN CHƠI ===
+Điểm cao nhất: 80 điểm
+Các ván đã chơi: 80, 40
+Trung bình điểm: 60.0
+Cảm ơn bạn đã chơi!
