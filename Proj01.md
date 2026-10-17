@@ -113,7 +113,11 @@ Giỏi quá!
 Bạn có muốn chơi tiếp không? (có/không): không
 
 === KẾT QUẢ PHIÊN CHƠI ===
+
 Điểm cao nhất: 80 điểm
+
 Các ván đã chơi: 80, 40
+
 Trung bình điểm: 60.0
+
 Cảm ơn bạn đã chơi!
